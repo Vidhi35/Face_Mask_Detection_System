@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [GitHub](https://github.com/Vidhi35)
 
 ## 🙏 Acknowledgments
 
@@ -355,7 +355,7 @@ If you have any questions or issues:
 
 1. Check the [Issues](https://github.com/yourusername/face-mask-detection/issues) page
 2. Create a new issue with detailed description
-3. Contact: your.email@example.com
+3. Contact: netamvidhi@gmail.com
 
 ## 🔗 Links
 
